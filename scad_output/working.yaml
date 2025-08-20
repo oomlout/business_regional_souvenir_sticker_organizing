@@ -1,9 +1,9 @@
 parts:
-  divider_7_width_10_height_0_75_mm_depth_10_section_extra:
+  divider_4_width_10_height_0_75_mm_depth_10_section_extra:
     classification: project
     color: business_regional_souvenir_sticker_organ
     description_extra: 10_section_extra
-    description_main: divider_7_width_10_height_0_75_mm_depth
+    description_main: divider_4_width_10_height_0_75_mm_depth
     full_rotations:
     - 0
     - 0
@@ -12,8 +12,8 @@ parts:
     - 0
     - 0
     - 0
-    id: project_github_oomlout_business_regional_souvenir_sticker_organ_divider_7_width_10_height_0_75_mm_depth_10_section_extra
-    id_oobb: oobb_part_business_regional_souvenir_sticker_organ_divider_7_width_10_height_0_75_mm_depth_10_section_extra
+    id: project_github_oomlout_business_regional_souvenir_sticker_organ_divider_4_width_10_height_0_75_mm_depth_10_section_extra
+    id_oobb: oobb_part_business_regional_souvenir_sticker_organ_divider_4_width_10_height_0_75_mm_depth_10_section_extra
     kwargs:
       extra: 10_section
       filter: ''
@@ -24,7 +24,7 @@ parts:
       oomp_classification: project
       oomp_color: business_regional_souvenir_sticker_organ
       oomp_description_extra: 10_section_extra
-      oomp_description_main: divider_7_width_10_height_0_75_mm_depth
+      oomp_description_main: divider_4_width_10_height_0_75_mm_depth
       oomp_manufacturer: ''
       oomp_mode: project
       oomp_part_number: ''
@@ -34,7 +34,7 @@ parts:
       overwrite: true
       thickness: 0.75
       type: business_regional_souvenir_sticker_organ_divider
-      width: 7
+      width: 4
     manufacturer: ''
     name: divider
     part_number: ''

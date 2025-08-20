@@ -1,0 +1,153 @@
+classification: project
+color: business_regional_souvenir_sticker_organ
+description_extra: 10_section_extra
+description_main: divider_5_width_10_height_0_75_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: project_github_oomlout_business_regional_souvenir_sticker_organ_divider_5_width_10_height_0_75_mm_depth_10_section_extra
+id_oobb: oobb_part_business_regional_souvenir_sticker_organ_divider_5_width_10_height_0_75_mm_depth_10_section_extra
+kwargs:
+  extra: 10_section
+  filter: ''
+  height: 10
+  modes:
+  - 3dpr
+  navigation: false
+  oomp_classification: project
+  oomp_color: business_regional_souvenir_sticker_organ
+  oomp_description_extra: 10_section_extra
+  oomp_description_main: divider_5_width_10_height_0_75_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: false
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  thickness: 0.75
+  type: business_regional_souvenir_sticker_organ_divider
+  width: 5
+manufacturer: ''
+name: divider
+part_number: ''
+project_name: C:\gh\business_regional_souvenir_sticker_organizing
+size: oomlout
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - depth: 0.75
+      extra: 10_section
+      height: 10
+      pos:
+      - 0
+      - 0
+      - 0
+      shape: rounded_rectangle
+      size:
+      - 74
+      - 149
+      - 0.75
+      type: positive
+      width: 5
+  - - depth: 0.75
+      extra: 10_section
+      height: 4
+      pos:
+      - 0
+      - 0
+      - 0
+      shape: rounded_rectangle
+      size:
+      - 89
+      - 59
+      - 0.75
+      type: positive
+      width: 6
+  components_objects:
+  - depth: 0.75
+    extra: 10_section
+    filter: ''
+    height: 10
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: business_regional_souvenir_sticker_organ
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_plate
+    thickness: 0.75
+    type: positive
+    width: 5
+  - depth: 0.75
+    extra: 10_section
+    filter: ''
+    height: 4
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: business_regional_souvenir_sticker_organ
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_plate
+    thickness: 0.75
+    type: positive
+    width: 6
+  components_string:
+  - oobb_plate_shape_positive_type_0.75_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_10_height_0.75_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_business_regional_souvenir_sticker_organ_oomp_color_10_section_extra
+  - oobb_plate_shape_positive_type_0.75_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_width_4_height_0.75_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_business_regional_souvenir_sticker_organ_oomp_color_10_section_extra
+  description: business regional souvenir sticker organ divider 5x10x0.75
+  description_extra: 10_section_extra
+  description_main: 5_width_10_height_0_75_mm_depth
+  extra: 10_section
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_business_regional_souvenir_sticker_organ_divider_5_width_10_height_0_75_mm_depth_10_section_extra
+  height: 10
+  height_mm: 149
+  id: oobb_part_business_regional_souvenir_sticker_organ_divider_5_width_10_height_0_75_mm_depth_10_section_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/business_regional_souvenir_sticker_organ_divider/5_width_10_height_0_75_mm_depth/10_section_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_business_regional_souvenir_sticker_organ_divider_05_10_0d75_ex_10_section
+  manufacturer: ''
+  name: Oobb Part Business Regional Souvenir Sticker Organ Divider 5 Width 10 Height
+    0 75 mm Depth 10 Section Extra
+  name_short: Business Regional Souvenir Sticker
+  part_number: ''
+  short_name: ''
+  size: business_regional_souvenir_sticker_organ_divider
+  thickness: 0.75
+  thickness_mm: 0.75
+  type: part
+  width: 5
+  width_mm: 74
+type: github

@@ -164,7 +164,7 @@ def make_scad(**kwargs):
     sect = siz["section"]
     part = copy.deepcopy(part_default)
     p3 = copy.deepcopy(kwargs)
-    p3["width"] = 7
+    p3["width"] = 4
     p3["height"] = 10
     p3["thickness"] = 0.75
     if typ == "section":
@@ -320,7 +320,7 @@ def get_divider(thing, **kwargs):
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "positive"
     p3["shape"] = f"oobb_plate"    
-    p3["depth"] = 3
+    p3["depth"] = depth
     #p3["holes"] = True         uncomment to include default holes
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
@@ -328,6 +328,21 @@ def get_divider(thing, **kwargs):
     oobb_base.append_full(thing,**p3)
     
     
+    #add label plate
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "positive"
+    p3["shape"] = f"oobb_plate"    
+    p3["width"] = 6
+    p3["height"] = 4
+    p3["depth"] = depth
+    pos1 = copy.deepcopy(pos)
+    pos1[1] += 75
+    p3["pos"] = pos1
+    #p3["holes"] = True         uncomment to include default holes
+    #p3["m"] = "#"
+    pos1 = copy.deepcopy(pos1)         
+    p3["pos"] = pos1
+    oobb_base.append_full(thing,**p3)
     
     
 
