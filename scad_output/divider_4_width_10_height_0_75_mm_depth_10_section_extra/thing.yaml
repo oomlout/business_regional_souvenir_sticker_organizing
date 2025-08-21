@@ -45,6 +45,7 @@ thing:
   - - depth: 0.75
       extra: 10_section
       height: 10
+      m: '#'
       pos:
       - 0
       - 0
@@ -61,7 +62,7 @@ thing:
       height: 4
       pos:
       - 0
-      - 75
+      - 45.0
       - 0
       shape: rounded_rectangle
       size:
@@ -75,6 +76,7 @@ thing:
     extra: 10_section
     filter: ''
     height: 10
+    m: '#'
     modes:
     - 3dpr
     navigation: false
@@ -118,7 +120,7 @@ thing:
     overwrite: true
     pos:
     - 0
-    - 75
+    - 45.0
     - 0
     save_type: none
     shape: oobb_plate
@@ -127,7 +129,7 @@ thing:
     width: 6
   components_string:
   - oobb_plate_shape_positive_type_0.75_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_10_height_0.75_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_business_regional_souvenir_sticker_organ_oomp_color_10_section_extra
-  - oobb_plate_shape_positive_type_0.75_depth_0_75_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_width_4_height_0.75_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_business_regional_souvenir_sticker_organ_oomp_color_10_section_extra
+  - oobb_plate_shape_positive_type_0.75_depth_0_45.0_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_6_width_4_height_0.75_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_business_regional_souvenir_sticker_organ_oomp_color_10_section_extra
   description: business regional souvenir sticker organ divider 4x10x0.75
   description_extra: 10_section_extra
   description_main: 4_width_10_height_0_75_mm_depth

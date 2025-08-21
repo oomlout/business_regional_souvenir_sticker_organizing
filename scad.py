@@ -333,10 +333,11 @@ def get_divider(thing, **kwargs):
     p3["type"] = "positive"
     p3["shape"] = f"oobb_plate"    
     p3["width"] = 6
-    p3["height"] = 4
+    hei = 4
+    p3["height"] = hei
     p3["depth"] = depth
     pos1 = copy.deepcopy(pos)
-    pos1[1] += 75
+    pos1[1] += 75 - hei*15/2
     p3["pos"] = pos1
     #p3["holes"] = True         uncomment to include default holes
     #p3["m"] = "#"
