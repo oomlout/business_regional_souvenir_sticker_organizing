@@ -45,7 +45,6 @@ thing:
   - - depth: 0.75
       extra: 10_section
       height: 10
-      m: '#'
       pos:
       - 0
       - 0
@@ -76,7 +75,6 @@ thing:
     extra: 10_section
     filter: ''
     height: 10
-    m: '#'
     modes:
     - 3dpr
     navigation: false
