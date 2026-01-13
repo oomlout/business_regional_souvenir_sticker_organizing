@@ -1,0 +1,41 @@
+classification: project
+color: business_regional_souvenir_sticker_organ
+description_extra: ''
+description_main: postcard_bottom_12_width_2_height_45_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: project_github_oomlout_business_regional_souvenir_sticker_organ_postcard_bottom_12_width_2_height_45_mm_depth
+id_oobb: oobb_part_business_regional_souvenir_sticker_organ_postcard_bottom_12_width_2_height_45_mm_depth
+kwargs:
+  filter: ''
+  height: 2
+  modes:
+  - 3dpr
+  navigation: true
+  oomp_classification: project
+  oomp_color: business_regional_souvenir_sticker_organ
+  oomp_description_extra: ''
+  oomp_description_main: postcard_bottom_12_width_2_height_45_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: true
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  thickness: 45
+  typ: all
+  type: business_regional_souvenir_sticker_organ_postcard_bottom
+  width: 12
+manufacturer: ''
+name: postcard_bottom
+part_number: ''
+project_name: C:\gh\business_regional_souvenir_sticker_organizing
+size: oomlout
+type: github
